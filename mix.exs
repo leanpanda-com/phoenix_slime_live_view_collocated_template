@@ -25,6 +25,7 @@ defmodule PhoenixSlime.LiveView.CollocatedTemplate.MixProject do
 
   defp deps do
     [
+      {:ex_doc, ">= 0.0.0", only: :dev, runtime: false},
       {:floki, ">= 0.0.0", only: :test},
       {:jason, "~> 1.0", only: :test},
       {:phoenix_live_view, ">= 0.12.0", only: :test},
