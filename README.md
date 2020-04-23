@@ -43,7 +43,7 @@ end
 
 # Documentation
 
-Documentation is [documentation][here].
+Documentation is [here][documentation].
 
 [documentation]: https://hexdocs.pm/phoenix_slime_live_view_collocated_template
 
