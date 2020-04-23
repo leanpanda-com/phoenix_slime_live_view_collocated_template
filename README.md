@@ -1,6 +1,6 @@
 # PhoenixSlime.LiveView.CollocatedTemplate
 
-Collocate of Slime live templates with live views
+Collocate Slime live templates with live views
 
 # Authorship
 

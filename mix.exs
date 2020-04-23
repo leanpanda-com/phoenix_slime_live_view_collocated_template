@@ -6,7 +6,7 @@ defmodule PhoenixSlime.LiveView.CollocatedTemplate.MixProject do
       app: :phoenix_slime_live_view_collocated_template,
       version: "0.1.0",
       elixir: "~> 1.10",
-      description: "Collocate of Slime live templates with live views",
+      description: "Collocate Slime live templates with live views",
       package: package(),
       start_permanent: Mix.env() == :prod,
       elixirc_paths: elixirc_paths(Mix.env()),
